@@ -3,109 +3,127 @@
     "post_id": 49875913,
     "title": "Parley: Federated, decentralised chat that speaks plain IRC",
     "category": "technology",
-    "score": 86,
-    "num_comments": 24,
+    "score": 107,
+    "num_comments": 32,
     "author": "davidcollantes",
-    "collected_at": "2026-09-28T17:50:15.162503"
+    "collected_at": "2026-09-28T18:20:09.692790"
   },
   {
     "post_id": 49875148,
     "title": "AI companies in race to demonstrate their model most threatening to humanity",
     "category": "technology",
-    "score": 119,
-    "num_comments": 64,
+    "score": 188,
+    "num_comments": 109,
     "author": "ljewalsh",
-    "collected_at": "2026-09-28T17:50:15.769042"
+    "collected_at": "2026-09-28T18:20:10.348843"
   },
   {
     "post_id": 49873241,
     "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
     "category": "technology",
-    "score": 123,
-    "num_comments": 40,
+    "score": 127,
+    "num_comments": 43,
     "author": "teleforce",
-    "collected_at": "2026-09-28T17:50:19.088713"
+    "collected_at": "2026-09-28T18:20:13.447385"
   },
   {
     "post_id": 49872883,
     "title": "Nissan's third generation e-POWER powertrain",
     "category": "technology",
-    "score": 92,
-    "num_comments": 117,
+    "score": 96,
+    "num_comments": 132,
     "author": "mroche",
-    "collected_at": "2026-09-28T17:50:20.965097"
+    "collected_at": "2026-09-28T18:20:15.267845"
   },
   {
     "post_id": 49869755,
     "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
     "category": "technology",
-    "score": 109,
-    "num_comments": 51,
+    "score": 112,
+    "num_comments": 54,
     "author": "evakhoury",
-    "collected_at": "2026-09-28T17:50:22.807216"
+    "collected_at": "2026-09-28T18:20:16.499652"
   },
   {
     "post_id": 49868404,
     "title": "Don't couple your Go code to GitHub",
     "category": "technology",
-    "score": 268,
-    "num_comments": 126,
+    "score": 270,
+    "num_comments": 132,
     "author": "birdculture",
-    "collected_at": "2026-09-28T17:50:27.307213"
+    "collected_at": "2026-09-28T18:20:21.667618"
+  },
+  {
+    "post_id": 49876883,
+    "title": "Una watch review: A modular, repairable GPS watch is a good first step",
+    "category": "technology",
+    "score": 3,
+    "num_comments": 0,
+    "author": "poisonborz",
+    "collected_at": "2026-09-28T18:20:29.719589"
   },
   {
     "post_id": 49849409,
     "title": "Writing Efficient C++ Code (2013)",
     "category": "technology",
-    "score": 164,
-    "num_comments": 127,
+    "score": 165,
+    "num_comments": 131,
     "author": "ibobev",
-    "collected_at": "2026-09-28T17:50:34.917289"
+    "collected_at": "2026-09-28T18:20:30.944928"
   },
   {
     "post_id": 49857281,
     "title": "There is more to code review than (automatable) detection",
     "category": "technology",
-    "score": 146,
-    "num_comments": 94,
+    "score": 148,
+    "num_comments": 96,
     "author": "utiiiD",
-    "collected_at": "2026-09-28T17:50:35.546137"
-  },
-  {
-    "post_id": 49876158,
-    "title": "Rails World 2026 Closing Keynote \u2013 Aaron Patterson [video]",
-    "category": "technology",
-    "score": 4,
-    "num_comments": 0,
-    "author": "sinnsro",
-    "collected_at": "2026-09-28T17:50:37.394415"
+    "collected_at": "2026-09-28T18:20:32.815695"
   },
   {
     "post_id": 49856885,
     "title": "Fakecloud: Local AWS cloud emulator for integration tests",
     "category": "technology",
-    "score": 143,
+    "score": 145,
     "num_comments": 72,
     "author": "theanonymousone",
-    "collected_at": "2026-09-28T17:50:38.673961"
+    "collected_at": "2026-09-28T18:20:33.445174"
+  },
+  {
+    "post_id": 49876158,
+    "title": "Rails World 2026 Closing Keynote \u2013 Aaron Patterson [video]",
+    "category": "technology",
+    "score": 5,
+    "num_comments": 0,
+    "author": "sinnsro",
+    "collected_at": "2026-09-28T18:20:34.700428"
   },
   {
     "post_id": 49868753,
     "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
     "category": "technology",
-    "score": 57,
+    "score": 60,
     "num_comments": 14,
     "author": "FKJ",
-    "collected_at": "2026-09-28T17:50:41.213265"
+    "collected_at": "2026-09-28T18:20:37.158995"
+  },
+  {
+    "post_id": 49875347,
+    "title": "Big AI's content problem: Take the work, keep the money",
+    "category": "technology",
+    "score": 11,
+    "num_comments": 0,
+    "author": "samizdis",
+    "collected_at": "2026-09-28T18:20:40.223542"
   },
   {
     "post_id": 49867775,
     "title": "Show HN: TinyAIArena watch AI agents battle it out",
     "category": "technology",
-    "score": 110,
+    "score": 111,
     "num_comments": 44,
     "author": "hp6",
-    "collected_at": "2026-09-28T17:50:45.169975"
+    "collected_at": "2026-09-28T18:20:41.505137"
   },
   {
     "post_id": 49867486,
@@ -114,34 +132,25 @@
     "score": 268,
     "num_comments": 114,
     "author": "pxx",
-    "collected_at": "2026-09-28T17:50:45.781733"
-  },
-  {
-    "post_id": 49875347,
-    "title": "Big AI's content problem: Take the work, keep the money",
-    "category": "technology",
-    "score": 8,
-    "num_comments": 0,
-    "author": "samizdis",
-    "collected_at": "2026-09-28T17:50:46.371147"
+    "collected_at": "2026-09-28T18:20:42.733635"
   },
   {
     "post_id": 49872200,
     "title": "Cambrian Explosion of AI",
     "category": "technology",
-    "score": 12,
-    "num_comments": 11,
+    "score": 13,
+    "num_comments": 13,
     "author": "debarshri",
-    "collected_at": "2026-09-28T17:50:47.588029"
+    "collected_at": "2026-09-28T18:20:44.595915"
   },
   {
     "post_id": 49867067,
     "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
     "category": "technology",
-    "score": 375,
-    "num_comments": 329,
+    "score": 376,
+    "num_comments": 330,
     "author": "jandeboevrie",
-    "collected_at": "2026-09-28T17:50:51.271093"
+    "collected_at": "2026-09-28T18:20:47.634622"
   },
   {
     "post_id": 49870377,
@@ -150,7 +159,7 @@
     "score": 28,
     "num_comments": 4,
     "author": "cupcakerob",
-    "collected_at": "2026-09-28T17:50:54.575004"
+    "collected_at": "2026-09-28T18:20:48.850460"
   },
   {
     "post_id": 49866534,
@@ -159,79 +168,70 @@
     "score": 135,
     "num_comments": 42,
     "author": "dimonomid",
-    "collected_at": "2026-09-28T17:50:56.445428"
+    "collected_at": "2026-09-28T18:20:51.904509"
   },
   {
     "post_id": 49875895,
     "title": "Congressman Cohen Introduces Articles of Impeachment Against President Trump",
     "category": "technology",
-    "score": 20,
+    "score": 24,
     "num_comments": 1,
     "author": "hkhn",
-    "collected_at": "2026-09-28T17:50:57.656354"
+    "collected_at": "2026-09-28T18:20:56.169988"
   },
   {
     "post_id": 49863864,
     "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
     "category": "technology",
-    "score": 617,
-    "num_comments": 605,
+    "score": 618,
+    "num_comments": 606,
     "author": "papergirl",
-    "collected_at": "2026-09-28T17:51:04.678177"
+    "collected_at": "2026-09-28T18:20:58.020558"
   },
   {
     "post_id": 49872468,
     "title": "OpenAI pauses training of latest models after agents probed US Government sites",
     "category": "technology",
-    "score": 28,
+    "score": 29,
     "num_comments": 2,
     "author": "daniel_iversen",
-    "collected_at": "2026-09-28T17:51:06.508491"
+    "collected_at": "2026-09-28T18:21:00.484025"
   },
   {
     "post_id": 49868083,
     "title": "There are no \"rogue\" AI agents",
     "category": "technology",
-    "score": 370,
-    "num_comments": 253,
+    "score": 371,
+    "num_comments": 255,
     "author": "zzzeek",
-    "collected_at": "2026-09-28T17:51:07.851999"
+    "collected_at": "2026-09-28T18:21:01.698111"
   },
   {
     "post_id": 49851883,
     "title": "Generate fonts where every LLM token is the same width",
     "category": "technology",
-    "score": 89,
+    "score": 90,
     "num_comments": 23,
     "author": "z-mach9",
-    "collected_at": "2026-09-28T17:51:09.706939"
-  },
-  {
-    "post_id": 49857132,
-    "title": "Golang: Crypto/fips140: do not bloat crypto code unnecessarily",
-    "category": "technology",
-    "score": 16,
-    "num_comments": 3,
-    "author": "zx2c4",
-    "collected_at": "2026-09-28T17:51:10.354479"
+    "collected_at": "2026-09-28T18:21:02.292596"
   },
   {
     "post_id": 49849985,
     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "category": "technology",
-    "score": 744,
+    "score": 745,
     "num_comments": 465,
     "author": "specked-citrus",
-    "collected_at": "2026-09-28T17:51:11.601720"
+    "collected_at": "2026-09-28T18:21:03.508081"
   },
   {
     "post_id": 49869755,
     "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
     "category": "worldnews",
-    "score": 109,
-    "num_comments": 51,
+    "score": 112,
+    "num_comments": 54,
     "author": "evakhoury",
-    "collected_at": "2026-09-28T17:51:13.603082"
+    "collected_at": "2026-09-28T18:21:05.509294"
   },
   {
     "post_id": 49875401,
@@ -240,34 +240,34 @@
     "score": 10,
     "num_comments": 6,
     "author": "nine_ch",
-    "collected_at": "2026-09-28T17:51:13.603192"
+    "collected_at": "2026-09-28T18:21:05.509391"
   },
   {
     "post_id": 49875895,
     "title": "Congressman Cohen Introduces Articles of Impeachment Against President Trump",
     "category": "worldnews",
-    "score": 20,
+    "score": 24,
     "num_comments": 1,
     "author": "hkhn",
-    "collected_at": "2026-09-28T17:51:13.603886"
+    "collected_at": "2026-09-28T18:21:05.509712"
   },
   {
     "post_id": 49872468,
     "title": "OpenAI pauses training of latest models after agents probed US Government sites",
     "category": "worldnews",
-    "score": 28,
+    "score": 29,
     "num_comments": 2,
     "author": "daniel_iversen",
-    "collected_at": "2026-09-28T17:51:13.604034"
+    "collected_at": "2026-09-28T18:21:05.509767"
   },
   {
     "post_id": 49864642,
     "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
     "category": "worldnews",
-    "score": 445,
+    "score": 447,
     "num_comments": 297,
     "author": "rbanffy",
-    "collected_at": "2026-09-28T17:51:27.512754"
+    "collected_at": "2026-09-28T18:21:19.392564"
   },
   {
     "post_id": 49832768,
@@ -276,7 +276,7 @@
     "score": 210,
     "num_comments": 27,
     "author": "momentmaker",
-    "collected_at": "2026-09-28T17:51:28.717673"
+    "collected_at": "2026-09-28T18:21:22.097752"
   },
   {
     "post_id": 49856665,
@@ -285,7 +285,7 @@
     "score": 131,
     "num_comments": 192,
     "author": "Betelbuddy",
-    "collected_at": "2026-09-28T17:51:56.543152"
+    "collected_at": "2026-09-28T18:21:50.352091"
   },
   {
     "post_id": 49833867,
@@ -294,7 +294,7 @@
     "score": 420,
     "num_comments": 141,
     "author": "sidharthkmenon",
-    "collected_at": "2026-09-28T17:52:20.551988"
+    "collected_at": "2026-09-28T18:22:12.376893"
   },
   {
     "post_id": 49872636,
@@ -303,7 +303,7 @@
     "score": 5,
     "num_comments": 1,
     "author": "JEOFFEZZ",
-    "collected_at": "2026-09-28T17:52:29.862640"
+    "collected_at": "2026-09-28T18:22:28.005416"
   },
   {
     "post_id": 49841563,
@@ -312,7 +312,7 @@
     "score": 1009,
     "num_comments": 581,
     "author": "fjfaase",
-    "collected_at": "2026-09-28T17:52:44.801376"
+    "collected_at": "2026-09-28T18:22:37.853869"
   },
   {
     "post_id": 49871877,
@@ -321,7 +321,7 @@
     "score": 26,
     "num_comments": 7,
     "author": "Teever",
-    "collected_at": "2026-09-28T17:52:56.011339"
+    "collected_at": "2026-09-28T18:22:54.057951"
   },
   {
     "post_id": 49829960,
@@ -330,7 +330,16 @@
     "score": 323,
     "num_comments": 330,
     "author": "nonfamous",
-    "collected_at": "2026-09-28T17:53:02.393382"
+    "collected_at": "2026-09-28T18:22:55.908223"
+  },
+  {
+    "post_id": 49860011,
+    "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+    "category": "worldnews",
+    "score": 29,
+    "num_comments": 1,
+    "author": "trimbo",
+    "collected_at": "2026-09-28T18:23:16.076677"
   },
   {
     "post_id": 49868721,
@@ -339,16 +348,7 @@
     "score": 3,
     "num_comments": 4,
     "author": "luckman212",
-    "collected_at": "2026-09-28T17:53:23.212912"
-  },
-  {
-    "post_id": 49860011,
-    "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
-    "category": "worldnews",
-    "score": 28,
-    "num_comments": 1,
-    "author": "trimbo",
-    "collected_at": "2026-09-28T17:53:26.288420"
+    "collected_at": "2026-09-28T18:23:19.823753"
   },
   {
     "post_id": 49811429,
@@ -357,16 +357,16 @@
     "score": 102,
     "num_comments": 44,
     "author": "segfaultbuserr",
-    "collected_at": "2026-09-28T17:53:31.908029"
+    "collected_at": "2026-09-28T18:23:23.585561"
   },
   {
     "post_id": 49871846,
     "title": "The great crime decline is happening all across the country",
     "category": "worldnews",
-    "score": 37,
+    "score": 38,
     "num_comments": 48,
     "author": "andsoitis",
-    "collected_at": "2026-09-28T17:53:33.159823"
+    "collected_at": "2026-09-28T18:23:30.283511"
   },
   {
     "post_id": 49811065,
@@ -375,7 +375,7 @@
     "score": 258,
     "num_comments": 345,
     "author": "raybb",
-    "collected_at": "2026-09-28T17:53:48.987687"
+    "collected_at": "2026-09-28T18:23:42.213347"
   },
   {
     "post_id": 49832406,
@@ -384,7 +384,7 @@
     "score": 277,
     "num_comments": 119,
     "author": "hermitcrab",
-    "collected_at": "2026-09-28T17:53:53.379469"
+    "collected_at": "2026-09-28T18:23:46.016911"
   },
   {
     "post_id": 49828409,
@@ -393,25 +393,7 @@
     "score": 181,
     "num_comments": 181,
     "author": "giuliomagnifico",
-    "collected_at": "2026-09-28T17:53:54.624447"
-  },
-  {
-    "post_id": 49869691,
-    "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-    "category": "worldnews",
-    "score": 8,
-    "num_comments": 1,
-    "author": "pseudolus",
-    "collected_at": "2026-09-28T17:53:55.365280"
-  },
-  {
-    "post_id": 49864790,
-    "title": "OpenAI pauses training of latest models after agents probed US Government sites",
-    "category": "worldnews",
-    "score": 16,
-    "num_comments": 1,
-    "author": "ml-student",
-    "collected_at": "2026-09-28T17:53:56.648999"
+    "collected_at": "2026-09-28T18:23:47.246319"
   },
   {
     "post_id": 49835913,
@@ -420,7 +402,25 @@
     "score": 34,
     "num_comments": 14,
     "author": "panic",
-    "collected_at": "2026-09-28T17:54:01.068147"
+    "collected_at": "2026-09-28T18:23:51.857539"
+  },
+  {
+    "post_id": 49864790,
+    "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+    "category": "worldnews",
+    "score": 16,
+    "num_comments": 1,
+    "author": "ml-student",
+    "collected_at": "2026-09-28T18:23:52.463119"
+  },
+  {
+    "post_id": 49869691,
+    "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+    "category": "worldnews",
+    "score": 8,
+    "num_comments": 1,
+    "author": "pseudolus",
+    "collected_at": "2026-09-28T18:23:56.212101"
   },
   {
     "post_id": 49808109,
@@ -429,7 +429,7 @@
     "score": 99,
     "num_comments": 79,
     "author": "evakhoury",
-    "collected_at": "2026-09-28T17:54:45.404467"
+    "collected_at": "2026-09-28T18:24:37.004561"
   },
   {
     "post_id": 49851355,
@@ -438,7 +438,7 @@
     "score": 62,
     "num_comments": 14,
     "author": "jbegley",
-    "collected_at": "2026-09-28T17:54:55.139193"
+    "collected_at": "2026-09-28T18:24:48.872648"
   },
   {
     "post_id": 49847926,
@@ -447,7 +447,7 @@
     "score": 8,
     "num_comments": 0,
     "author": "winwang",
-    "collected_at": "2026-09-28T17:55:12.843018"
+    "collected_at": "2026-09-28T18:25:06.395923"
   },
   {
     "post_id": 49849820,
@@ -456,7 +456,7 @@
     "score": 63,
     "num_comments": 43,
     "author": "msephton",
-    "collected_at": "2026-09-28T17:55:14.846588"
+    "collected_at": "2026-09-28T18:25:08.398759"
   },
   {
     "post_id": 49844642,
@@ -465,7 +465,7 @@
     "score": 64,
     "num_comments": 35,
     "author": "adam",
-    "collected_at": "2026-09-28T17:55:14.846662"
+    "collected_at": "2026-09-28T18:25:08.398826"
   },
   {
     "post_id": 49836590,
@@ -474,7 +474,7 @@
     "score": 122,
     "num_comments": 65,
     "author": "neonate",
-    "collected_at": "2026-09-28T17:55:14.846926"
+    "collected_at": "2026-09-28T18:25:08.399094"
   },
   {
     "post_id": 49857528,
@@ -483,7 +483,7 @@
     "score": 75,
     "num_comments": 55,
     "author": "brumar",
-    "collected_at": "2026-09-28T17:55:14.847522"
+    "collected_at": "2026-09-28T18:25:08.399666"
   },
   {
     "post_id": 49849406,
@@ -492,7 +492,7 @@
     "score": 13,
     "num_comments": 0,
     "author": "ibobev",
-    "collected_at": "2026-09-28T17:55:14.847760"
+    "collected_at": "2026-09-28T18:25:08.399807"
   },
   {
     "post_id": 49857651,
@@ -501,7 +501,7 @@
     "score": 124,
     "num_comments": 127,
     "author": "Brajeshwar",
-    "collected_at": "2026-09-28T17:55:14.848064"
+    "collected_at": "2026-09-28T18:25:08.399955"
   },
   {
     "post_id": 49829387,
@@ -510,7 +510,7 @@
     "score": 143,
     "num_comments": 52,
     "author": "ArielSimon",
-    "collected_at": "2026-09-28T17:55:14.848302"
+    "collected_at": "2026-09-28T18:25:08.400089"
   },
   {
     "post_id": 49855947,
@@ -519,7 +519,7 @@
     "score": 3,
     "num_comments": 0,
     "author": "tosh",
-    "collected_at": "2026-09-28T17:55:14.848427"
+    "collected_at": "2026-09-28T18:25:08.400166"
   },
   {
     "post_id": 49847157,
@@ -528,7 +528,7 @@
     "score": 7,
     "num_comments": 7,
     "author": "fullstackwife",
-    "collected_at": "2026-09-28T17:55:17.462249"
+    "collected_at": "2026-09-28T18:25:09.658069"
   },
   {
     "post_id": 49875618,
@@ -537,7 +537,7 @@
     "score": 1,
     "num_comments": 0,
     "author": "marowa-labs",
-    "collected_at": "2026-09-28T17:56:56.770806"
+    "collected_at": "2026-09-28T18:27:01.772374"
   },
   {
     "post_id": 49874311,
@@ -546,7 +546,7 @@
     "score": 2,
     "num_comments": 1,
     "author": "suhacker256",
-    "collected_at": "2026-09-28T17:57:51.712266"
+    "collected_at": "2026-09-28T18:27:55.294644"
   },
   {
     "post_id": 49873895,
@@ -555,7 +555,7 @@
     "score": 9,
     "num_comments": 5,
     "author": "sitsitstay",
-    "collected_at": "2026-09-28T17:58:09.014981"
+    "collected_at": "2026-09-28T18:28:11.709027"
   },
   {
     "post_id": 49873512,
@@ -564,7 +564,7 @@
     "score": 2,
     "num_comments": 0,
     "author": "sbulaev",
-    "collected_at": "2026-09-28T17:58:22.151648"
+    "collected_at": "2026-09-28T18:28:24.921604"
   },
   {
     "post_id": 49870904,
@@ -573,25 +573,25 @@
     "score": 1,
     "num_comments": 0,
     "author": "handfuloflight",
-    "collected_at": "2026-09-28T17:59:50.640405"
+    "collected_at": "2026-09-28T18:29:52.345554"
   },
   {
     "post_id": 49875411,
     "title": "SpaceX's Starship launching to orbit for first time ever today",
     "category": "science",
-    "score": 109,
-    "num_comments": 28,
+    "score": 143,
+    "num_comments": 39,
     "author": "geox",
-    "collected_at": "2026-09-28T18:00:22.366356"
+    "collected_at": "2026-09-28T18:30:12.688432"
   },
   {
     "post_id": 49866951,
     "title": "In an $80 motel room, a discovery to shed light on the origins of life",
     "category": "science",
-    "score": 258,
+    "score": 261,
     "num_comments": 96,
     "author": "danso",
-    "collected_at": "2026-09-28T18:00:22.366615"
+    "collected_at": "2026-09-28T18:30:12.688618"
   },
   {
     "post_id": 49872497,
@@ -600,16 +600,16 @@
     "score": 87,
     "num_comments": 25,
     "author": "Teever",
-    "collected_at": "2026-09-28T18:00:22.367926"
+    "collected_at": "2026-09-28T18:30:12.689459"
   },
   {
     "post_id": 49839438,
     "title": "Biology might not be quantum, but its math is quantumlike",
     "category": "science",
-    "score": 120,
+    "score": 121,
     "num_comments": 60,
     "author": "pseudolus",
-    "collected_at": "2026-09-28T18:00:22.368003"
+    "collected_at": "2026-09-28T18:30:12.689730"
   },
   {
     "post_id": 49830606,
@@ -618,7 +618,7 @@
     "score": 232,
     "num_comments": 540,
     "author": "xnx",
-    "collected_at": "2026-09-28T18:00:22.369071"
+    "collected_at": "2026-09-28T18:30:12.690689"
   },
   {
     "post_id": 49872143,
@@ -627,7 +627,7 @@
     "score": 10,
     "num_comments": 11,
     "author": "jdkee",
-    "collected_at": "2026-09-28T18:00:22.369151"
+    "collected_at": "2026-09-28T18:30:12.690764"
   },
   {
     "post_id": 49853918,
@@ -636,7 +636,7 @@
     "score": 47,
     "num_comments": 34,
     "author": "pseudolus",
-    "collected_at": "2026-09-28T18:00:22.372800"
+    "collected_at": "2026-09-28T18:30:12.691114"
   },
   {
     "post_id": 49868561,
@@ -645,7 +645,7 @@
     "score": 8,
     "num_comments": 2,
     "author": "sbulaev",
-    "collected_at": "2026-09-28T18:00:22.373077"
+    "collected_at": "2026-09-28T18:30:12.691369"
   },
   {
     "post_id": 49835866,
@@ -654,7 +654,7 @@
     "score": 29,
     "num_comments": 28,
     "author": "shriy-singh",
-    "collected_at": "2026-09-28T18:00:22.373132"
+    "collected_at": "2026-09-28T18:30:12.691394"
   },
   {
     "post_id": 49824969,
@@ -663,16 +663,25 @@
     "score": 24,
     "num_comments": 4,
     "author": "tob_scott_a",
-    "collected_at": "2026-09-28T18:00:22.373368"
+    "collected_at": "2026-09-28T18:30:12.691604"
+  },
+  {
+    "post_id": 49877010,
+    "title": "SpaceX Starship Orbital Launch Attempt Starting in ~10 Mins",
+    "category": "science",
+    "score": 2,
+    "num_comments": 1,
+    "author": "somenameforme",
+    "collected_at": "2026-09-28T18:30:12.692126"
   },
   {
     "post_id": 49876720,
     "title": "Chatbots give a narrow slice of knowledge:Researchers warn of knowledge collapse",
     "category": "science",
-    "score": 2,
+    "score": 3,
     "num_comments": 0,
     "author": "DeepLogin",
-    "collected_at": "2026-09-28T18:00:22.374004"
+    "collected_at": "2026-09-28T18:30:12.692245"
   },
   {
     "post_id": 49876642,
@@ -681,16 +690,16 @@
     "score": 2,
     "num_comments": 0,
     "author": "ltononro",
-    "collected_at": "2026-09-28T18:00:22.374056"
+    "collected_at": "2026-09-28T18:30:12.692321"
   },
   {
     "post_id": 49875574,
     "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
     "category": "science",
-    "score": 4,
+    "score": 6,
     "num_comments": 0,
     "author": "strangeloops85",
-    "collected_at": "2026-09-28T18:00:22.374721"
+    "collected_at": "2026-09-28T18:30:12.692783"
   },
   {
     "post_id": 49875334,
@@ -699,7 +708,7 @@
     "score": 2,
     "num_comments": 0,
     "author": "binyu",
-    "collected_at": "2026-09-28T18:00:22.374798"
+    "collected_at": "2026-09-28T18:30:12.692875"
   },
   {
     "post_id": 49875033,
@@ -708,7 +717,7 @@
     "score": 2,
     "num_comments": 0,
     "author": "omens",
-    "collected_at": "2026-09-28T18:00:22.374926"
+    "collected_at": "2026-09-28T18:30:12.692982"
   },
   {
     "post_id": 49874385,
@@ -717,7 +726,7 @@
     "score": 2,
     "num_comments": 0,
     "author": "geox",
-    "collected_at": "2026-09-28T18:00:22.375152"
+    "collected_at": "2026-09-28T18:30:12.693173"
   },
   {
     "post_id": 49873646,
@@ -726,7 +735,7 @@
     "score": 5,
     "num_comments": 2,
     "author": "duck",
-    "collected_at": "2026-09-28T18:00:22.375485"
+    "collected_at": "2026-09-28T18:30:12.693525"
   },
   {
     "post_id": 49872978,
@@ -735,7 +744,7 @@
     "score": 3,
     "num_comments": 0,
     "author": "killme2008",
-    "collected_at": "2026-09-28T18:00:22.375666"
+    "collected_at": "2026-09-28T18:30:12.693670"
   },
   {
     "post_id": 49872317,
@@ -744,7 +753,7 @@
     "score": 1,
     "num_comments": 0,
     "author": "defrost",
-    "collected_at": "2026-09-28T18:00:22.375876"
+    "collected_at": "2026-09-28T18:30:12.693845"
   },
   {
     "post_id": 49872233,
@@ -753,7 +762,7 @@
     "score": 3,
     "num_comments": 0,
     "author": "sushiwang",
-    "collected_at": "2026-09-28T18:00:22.375914"
+    "collected_at": "2026-09-28T18:30:12.693875"
   },
   {
     "post_id": 49871293,
@@ -762,7 +771,7 @@
     "score": 6,
     "num_comments": 5,
     "author": "kristianp",
-    "collected_at": "2026-09-28T18:00:22.376235"
+    "collected_at": "2026-09-28T18:30:12.694196"
   },
   {
     "post_id": 49871163,
@@ -771,7 +780,7 @@
     "score": 3,
     "num_comments": 0,
     "author": "vetchzero",
-    "collected_at": "2026-09-28T18:00:22.376281"
+    "collected_at": "2026-09-28T18:30:12.694274"
   },
   {
     "post_id": 49870911,
@@ -780,25 +789,25 @@
     "score": 11,
     "num_comments": 4,
     "author": "jbegley",
-    "collected_at": "2026-09-28T18:00:22.376413"
+    "collected_at": "2026-09-28T18:30:12.694439"
   },
   {
     "post_id": 49869574,
     "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
     "category": "entertainment",
-    "score": 268,
-    "num_comments": 113,
+    "score": 273,
+    "num_comments": 114,
     "author": "safaelmali",
-    "collected_at": "2026-09-28T18:00:24.385410"
+    "collected_at": "2026-09-28T18:30:14.695816"
   },
   {
     "post_id": 49867775,
     "title": "Show HN: TinyAIArena watch AI agents battle it out",
     "category": "entertainment",
-    "score": 110,
+    "score": 111,
     "num_comments": 44,
     "author": "hp6",
-    "collected_at": "2026-09-28T18:00:24.385784"
+    "collected_at": "2026-09-28T18:30:14.695981"
   },
   {
     "post_id": 49845172,
@@ -807,7 +816,7 @@
     "score": 273,
     "num_comments": 121,
     "author": "pancomplex",
-    "collected_at": "2026-09-28T18:00:24.386123"
+    "collected_at": "2026-09-28T18:30:14.696061"
   },
   {
     "post_id": 49870394,
@@ -816,7 +825,7 @@
     "score": 16,
     "num_comments": 3,
     "author": "jvanveen",
-    "collected_at": "2026-09-28T18:00:24.386374"
+    "collected_at": "2026-09-28T18:30:14.696180"
   },
   {
     "post_id": 49858513,
@@ -825,16 +834,16 @@
     "score": 397,
     "num_comments": 115,
     "author": "jpwalsh234",
-    "collected_at": "2026-09-28T18:00:24.386441"
+    "collected_at": "2026-09-28T18:30:14.696200"
   },
   {
     "post_id": 49864642,
     "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
     "category": "entertainment",
-    "score": 445,
+    "score": 447,
     "num_comments": 297,
     "author": "rbanffy",
-    "collected_at": "2026-09-28T18:00:24.386693"
+    "collected_at": "2026-09-28T18:30:14.696318"
   },
   {
     "post_id": 49832768,
@@ -843,7 +852,7 @@
     "score": 210,
     "num_comments": 27,
     "author": "momentmaker",
-    "collected_at": "2026-09-28T18:00:24.386824"
+    "collected_at": "2026-09-28T18:30:14.696343"
   },
   {
     "post_id": 49871569,
@@ -852,16 +861,7 @@
     "score": 6,
     "num_comments": 1,
     "author": "andreespirela",
-    "collected_at": "2026-09-28T18:00:24.386952"
-  },
-  {
-    "post_id": 49872766,
-    "title": "Musk, the Movie",
-    "category": "entertainment",
-    "score": 154,
-    "num_comments": 103,
-    "author": "yablak",
-    "collected_at": "2026-09-28T18:00:24.386966"
+    "collected_at": "2026-09-28T18:30:14.696434"
   },
   {
     "post_id": 49869904,
@@ -870,7 +870,16 @@
     "score": 10,
     "num_comments": 0,
     "author": "miletus",
-    "collected_at": "2026-09-28T18:00:24.386999"
+    "collected_at": "2026-09-28T18:30:14.696451"
+  },
+  {
+    "post_id": 49872766,
+    "title": "Musk, the Movie",
+    "category": "entertainment",
+    "score": 156,
+    "num_comments": 103,
+    "author": "yablak",
+    "collected_at": "2026-09-28T18:30:14.696464"
   },
   {
     "post_id": 49824144,
@@ -879,7 +888,7 @@
     "score": 72,
     "num_comments": 14,
     "author": "SouthWestAtlas",
-    "collected_at": "2026-09-28T18:00:24.387081"
+    "collected_at": "2026-09-28T18:30:14.696511"
   },
   {
     "post_id": 49852302,
@@ -888,7 +897,7 @@
     "score": 421,
     "num_comments": 106,
     "author": "pseudolus",
-    "collected_at": "2026-09-28T18:00:24.387106"
+    "collected_at": "2026-09-28T18:30:14.696521"
   },
   {
     "post_id": 49870654,
@@ -897,7 +906,7 @@
     "score": 10,
     "num_comments": 1,
     "author": "TN1ck",
-    "collected_at": "2026-09-28T18:00:24.387172"
+    "collected_at": "2026-09-28T18:30:14.696563"
   },
   {
     "post_id": 49849986,
@@ -906,7 +915,7 @@
     "score": 40,
     "num_comments": 12,
     "author": "kdautaj",
-    "collected_at": "2026-09-28T18:00:24.387193"
+    "collected_at": "2026-09-28T18:30:14.696574"
   },
   {
     "post_id": 49849820,
@@ -915,7 +924,7 @@
     "score": 63,
     "num_comments": 43,
     "author": "msephton",
-    "collected_at": "2026-09-28T18:00:24.387384"
+    "collected_at": "2026-09-28T18:30:14.696683"
   },
   {
     "post_id": 49868710,
@@ -924,7 +933,7 @@
     "score": 7,
     "num_comments": 0,
     "author": "davnn",
-    "collected_at": "2026-09-28T18:00:24.387498"
+    "collected_at": "2026-09-28T18:30:14.696763"
   },
   {
     "post_id": 49868631,
@@ -933,7 +942,7 @@
     "score": 4,
     "num_comments": 0,
     "author": "emir",
-    "collected_at": "2026-09-28T18:00:24.387522"
+    "collected_at": "2026-09-28T18:30:14.696791"
   },
   {
     "post_id": 49844497,
@@ -942,7 +951,7 @@
     "score": 86,
     "num_comments": 28,
     "author": "andrearitossa",
-    "collected_at": "2026-09-28T18:00:24.387564"
+    "collected_at": "2026-09-28T18:30:14.696815"
   },
   {
     "post_id": 49833867,
@@ -951,7 +960,7 @@
     "score": 420,
     "num_comments": 141,
     "author": "sidharthkmenon",
-    "collected_at": "2026-09-28T18:00:24.387663"
+    "collected_at": "2026-09-28T18:30:14.696901"
   },
   {
     "post_id": 49867443,
@@ -960,7 +969,16 @@
     "score": 6,
     "num_comments": 0,
     "author": "bonguynvan",
-    "collected_at": "2026-09-28T18:00:24.387709"
+    "collected_at": "2026-09-28T18:30:14.696970"
+  },
+  {
+    "post_id": 49875006,
+    "title": "Maybe don't let Muse run your Facebook Marketplace account",
+    "category": "entertainment",
+    "score": 50,
+    "num_comments": 56,
+    "author": "embedding-shape",
+    "collected_at": "2026-09-28T18:30:14.696993"
   },
   {
     "post_id": 49836590,
@@ -969,16 +987,7 @@
     "score": 122,
     "num_comments": 65,
     "author": "neonate",
-    "collected_at": "2026-09-28T18:00:24.387824"
-  },
-  {
-    "post_id": 49875006,
-    "title": "Maybe don't let Muse run your Facebook Marketplace account",
-    "category": "entertainment",
-    "score": 48,
-    "num_comments": 56,
-    "author": "embedding-shape",
-    "collected_at": "2026-09-28T18:00:24.387860"
+    "collected_at": "2026-09-28T18:30:14.697060"
   },
   {
     "post_id": 49858409,
@@ -987,16 +996,7 @@
     "score": 21,
     "num_comments": 2,
     "author": "jsLavaGoat",
-    "collected_at": "2026-09-28T18:00:24.388096"
-  },
-  {
-    "post_id": 49866597,
-    "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
-    "category": "entertainment",
-    "score": 68,
-    "num_comments": 49,
-    "author": "thiagoperes",
-    "collected_at": "2026-09-28T18:00:24.388183"
+    "collected_at": "2026-09-28T18:30:14.697238"
   },
   {
     "post_id": 49827375,
@@ -1005,6 +1005,15 @@
     "score": 90,
     "num_comments": 31,
     "author": "emurlin",
-    "collected_at": "2026-09-28T18:00:24.388544"
+    "collected_at": "2026-09-28T18:30:14.697395"
+  },
+  {
+    "post_id": 49821438,
+    "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+    "category": "entertainment",
+    "score": 51,
+    "num_comments": 12,
+    "author": "miguelrios",
+    "collected_at": "2026-09-28T18:30:14.697417"
   }
 ]
