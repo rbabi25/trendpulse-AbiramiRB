@@ -1,10 +1,8 @@
 """
 TrendPulse - Task 2: Clean the Data & Save as CSV
----------------------------------------------------
-SKELETON FILE - fill in the TODOs yourself.
-This is a scaffold to guide your own implementation, not a finished script.
 
 Needs: data/trends_YYYYMMDD.json from Task 1
+
 Produces: data/trends_clean.csv
 """
 
@@ -13,66 +11,105 @@ import pandas as pd
 
 
 def find_latest_json_file():
-    """
-    Find the most recent trends_*.json file in the data/ folder,
-    so you don't have to hardcode a specific date in the filename.
-    Hint: glob.glob("data/trends_*.json") gives you a list of matching paths.
-    Hint: sorted(...)[-1] gives you the last one alphabetically, which
-    for YYYYMMDD-formatted dates is also the most recent one.
-    """
-    # TODO: implement this
-    pass
+    matching_files = glob.glob("data/trends_*.json")
+
+    if not matching_files:
+        print("No trends_*.json file found in data/. Run Task 1 first.")
+        return None
+
+    latest_file = sorted(matching_files)[-1]
+    return latest_file
 
 
 def load_data(filepath):
     """
-    Task 1 (4 marks): Load the JSON file into a DataFrame and print the row count.
+    Task 1 (4 marks):
+    Load the JSON file into a DataFrame and print the row count.
     """
-    # TODO: use pd.read_json() to load the file
-    # TODO: print("Loaded {N} stories from {filepath}")
-    pass
+
+    df = pd.read_json(filepath)
+
+    print(f"Loaded {len(df)} stories from {filepath}")
+
+    return df
 
 
 def clean_data(df):
     """
-    Task 2 (10 marks): Clean the DataFrame step by step.
-    Print the row count after EACH stage, in this order:
-      1. Remove duplicate post_id rows      -> print("After removing duplicates: {N}")
-      2. Drop rows missing post_id/title/score -> print("After removing nulls: {N}")
-      3. Convert score & num_comments to int
-      4. Remove rows where score < 5        -> print("After removing low scores: {N}")
-      5. Strip whitespace from title
-
-      Think about WHY steps 2 and 3 are in that specific order before you code it.
+    Task 2 (10 marks):
+    Clean the DataFrame step by step.
     """
-    # TODO: step 1 - drop_duplicates on post_id
 
-    # TODO: step 2 - dropna on post_id, title, score
+    # 1. Remove duplicate post_id rows
+    df = df.drop_duplicates(subset="post_id")
 
-    # TODO: step 3 - astype(int) on score and num_comments
+    print(f"After removing duplicates: {len(df)}")
 
-    # TODO: step 4 - filter where score >= 5
+    # 2. Drop rows missing post_id, title, or score
+    df = df.dropna(subset=["post_id", "title", "score"])
 
-    # TODO: step 5 - strip whitespace on title
+    print(f"After removing nulls: {len(df)}")
+
+    # 3. Convert score and num_comments to integers
+    df["score"] = df["score"].astype(int)
+    df["num_comments"] = df["num_comments"].astype(int)
+
+    # 4. Remove stories where score is less than 5
+    df = df[df["score"] >= 5]
+
+    print(f"After removing low scores: {len(df)}")
+
+    # 5. Strip extra whitespace from title
+    df["title"] = df["title"].str.strip()
+
+    # Final cleaned row count
+    print(f"After cleaning: {len(df)}")
 
     return df
 
 
 def save_clean_csv(df, output_path="data/trends_clean.csv"):
     """
-    Task 3 (6 marks): Save to CSV, print a confirmation, and print a
-    per-category breakdown.
+    Task 3 (6 marks):
+    Save the cleaned DataFrame to CSV,
+    print confirmation, and show category counts.
     """
-    # TODO: df.to_csv(...)
-    # TODO: print("Saved {N} rows to {output_path}")
-    # TODO: print category counts using value_counts()
-    pass
+
+    # Save cleaned DataFrame
+    df.to_csv(output_path, index=False)
+
+    # Confirmation
+    print(f"Saved {len(df)} rows to {output_path}")
+
+    # Category summary
+    print("\nStories per category:")
+    print(df["category"].value_counts())
 
 
 def main():
+
+    # Find latest JSON file
     filepath = find_latest_json_file()
+
+    print("DEBUG filepath:", filepath)
+
+    # Stop if no JSON file was found
+    if filepath is None:
+        return
+
+    # Load JSON
     df = load_data(filepath)
+
+    print("DEBUG df after load:")
+    print(df)
+
+    # Clean data
     df = clean_data(df)
+
+    print("DEBUG df after clean:")
+    print(df)
+
+    # Save cleaned CSV
     save_clean_csv(df)
 
 
