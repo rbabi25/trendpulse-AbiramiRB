@@ -1,18 +1,5 @@
 """
 TrendPulse - Task 1: Fetch, Categorize, and Save HackerNews Trending Stories
-------------------------------------------------------------------------------
-Pipeline stage: Fetch JSON (Task 1 of 4)
-
-What this script does:
-1. Fetches the top 500 AND newest 500 story IDs from HackerNews, combined
-   into one deduplicated pool (a bigger pool helps rarer categories like
-   sports/science actually find 25 matches).
-2. For each of 5 categories, scans through the stories, fetches details,
-   and keeps stories whose title matches that category's keywords.
-3. Collects up to 25 stories per category (125 total).
-4. Extracts the 7 required fields for each story.
-5. Saves everything to data/trends_YYYYMMDD.json.
-
 """
 
 import os
